@@ -1,3 +1,2 @@
 .env
-process.env.DB_USER
-process.env.DB_PASS
+node_modules
